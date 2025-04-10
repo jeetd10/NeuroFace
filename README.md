@@ -77,7 +77,7 @@ This gives a smooth user experience without a blank white screen.
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/Eessh/face-emotion-recognition.git
+git clone https://github.com/jeetd10/NeuroFace
 cd face-emotion-recognition
 npm install
 npm run start
